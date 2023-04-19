@@ -1,0 +1,186 @@
+#title {
+    background-color: #ff4c68;
+}
+
+.heading {
+    font-family: "Monserrat-Black";
+    size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7% 15%;
+}
+
+body {
+    font-family: "Monserrat";
+}
+
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+    ;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Monserrat-light";
+    font-size: 1.2rem;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+#feature {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box {
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+
+}
+
+.statement {
+    font-size: larger;
+    color: #8f8f8f;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 5%;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Monserrat-Bold";
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.companies {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.carousel-control-next {
+    background-color: #ef8172;
+    border: #ef8172;
+    color: #8f8f8f;
+}
+
+.carousel-control-prev {
+    background-color: #ef8172;
+    border: #ef8172;
+    color: #8f8f8f;
+}
+
+.carousel-control-next:hover {
+    color: #fff;
+}
+
+.carousel-control-prev:hover {
+    color: #fff;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.row {
+    padding: 3% 2%;
+}
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    padding: 5% 0 2% 0;
+}
+
+.love {
+    font-size: 250%;
+}
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+    padding: 7%;
+}
+
+.foot {
+    color: #8f8f8f;
+}
+
+.social {
+    margin: 2%;
+    color: #ff4c68;
+}
+
+.social:hover {
+    color: #ef8172;
+}
+
+@media (max-width:1028px) {
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+}
