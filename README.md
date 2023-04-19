@@ -1,2 +1,2 @@
-# TinDog
-A dating website for Dogs
+# TinDog-A dating website for Dogs
+inspired from AppBrewry
